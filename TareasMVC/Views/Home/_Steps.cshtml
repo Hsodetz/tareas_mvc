@@ -1,0 +1,41 @@
+﻿
+<label><i class="bi bi-check-square"></i> Pasos de la tarea </label>
+<button class="btn btn-secondary btn-sm" onclick="handleClickAddStep()">
+    <i class="bi bi-plus"></i>
+</button>
+
+<div data-bind="foreach: steps">
+    <div class="mt-2">
+        <div class="row">
+            <div class="col-1">
+                <input type="checkbox" class="form-check-input" name="chbStep" data-bind="{checked: done, click: handleClickCheckboxStep}"/>
+            </div>
+            <div class="col-11">
+                <span style="cursor-pointer"
+                      data-bind="text: description, hidden: modeEdit, css: {'text-decoration-line-through': done}, click: handleClickDescriptionStep">
+                </span>
+
+                <textarea name="textStepDescription" class="form-control" placeholder="Agregue una descripcion"
+                          data-bind="{value: description, visible: modeEdit}">
+                </textarea>
+
+                <div class="mt-2" data-bind="{visible: modeEdit}">
+
+                    <button class="btn btn-primary" data-bind="{click: handleClickSaveStep}">
+                        Salvar
+                    </button>
+
+                    <button class="btn btn-secondary" data-bind="{click: handleClickCancelStep}">
+                        Cancelar
+                    </button>
+
+                    <button class="btn btn-danger" data-bind="{click: handleClickDeleteStep, hidden: isNew}">
+                        Borrar
+                    </button>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

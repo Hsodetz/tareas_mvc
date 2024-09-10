@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{A897B67E-0B50-44EA-A1F5-1C542D066376}|https">
+  <MonoDevelop.Ide.ItemProperties.TareasMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TareasMVC/wwwroot/js/steps.js">
+    <Files>
+      <File FileName="TareasMVC/Views/Home/Index.cshtml" />
+      <File FileName="TareasMVC/Controllers/TasksController.cs" />
+      <File FileName="TareasMVC/wwwroot/js/tasks.js" />
+      <File FileName="TareasMVC/Views/Home/_ModalEditTask.cshtml" />
+      <File FileName="TareasMVC/wwwroot/js/steps.js" Line="157" Column="20" />
+      <File FileName="TareasMVC/Controllers/StepsController.cs" />
+      <File FileName="TareasMVC/Services/AutoMapperProfiles.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TareasMVC" expanded="True">
+            <Node name="TareasMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="steps.js" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

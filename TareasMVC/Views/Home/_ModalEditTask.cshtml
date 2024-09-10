@@ -1,0 +1,43 @@
+﻿<div class="modal fade" id="modal-edit-task" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modal-edit-task-title" data-bind="text: title"></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-lg-9">
+                        <div class="form-floating mb-3f">
+                            <input type="text" class="form-control" id="txtCreateTitleTask" autocomplete="off"
+                                   placeholder="Titulo" data-bind="value: title, event: {change: handleChangeEditTask}"/>
+                            <label for="txtCreateTitleTask">Titulo de la Tarea</label>
+                        </div>
+
+                        <div class="mb-3">
+                            <label>Descripcion</label>
+                            <textarea type="text" class="form-control" rows="4" data-bind="value: description, event: {change: handleChangeEditTask}"></textarea>
+                        </div>
+
+                        <div class="mb-3">
+                            <partial name="_Steps"/>
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-3">
+                        <button data-bind="click: intentDeleteTask"
+                                class="btn btn-danger mb-2 w-100 text-start">
+                            <i class="bi bi-x-lg"></i>
+                            Borrar Tarea
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                
+            </div>
+        </div>
+    </div>
+</div>
+

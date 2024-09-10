@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TareasMVC
+build_property.RootNamespace = TareasMVC
+build_property.ProjectDir = /Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Home/_ModalEditTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fTW9kYWxFZGl0VGFzay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Home/_Steps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9fU3RlcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MaW5rc0xvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Users/ListUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTGlzdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Users/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlcnMvX2xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/TareasMVC/TareasMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yl07rz0chr

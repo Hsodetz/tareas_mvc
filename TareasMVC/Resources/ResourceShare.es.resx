@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	
+
+
+	<data name="Error.Required" xml:space="preserve">
+		<value>El campo {0} es requerido</value>
+	</data>
+	<data name="Remember" xml:space="preserve">
+		<value>Recuérdame</value>
+	</data>
+	<data name="Error.Email" xml:space="preserve">
+		<value>El campo debe ser un correo electrónico válido</value>
+	</data>
+</root>
+
